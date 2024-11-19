@@ -45,13 +45,4 @@
 #     print(i)
 
 
-count=0
-i=0
-while True:
-    i += 1
-    if i % 10 == 0:
-        count += 1
 
-    if i == 10000:
-        break
-print(x)
