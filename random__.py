@@ -1,4 +1,4 @@
-import random
+import random__
 #
 # for i in range(10):
 #     #print(random.random())     # random rastgele 0 ile 1 araliginda  kac tane uret dediysen sayi uretiyor..
