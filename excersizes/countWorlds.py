@@ -1,4 +1,5 @@
 from collections import Counter
+import random
 
 text= """Süleyman, şimdi çok kritik bir aşamadasın ve doğru hazırlık seni bir anda tester’den developer’a geçiş yapan adam konumuna sokabilir.
 Zivid seni zaten potansiyel görüyor, ama bu mülakatta Python + teknik düşünme + problem çözme tarafını görmek isteyecekler. Ben sana burada gerçekçi, Norveç şirket kültürüne uygun, tester geçmişine göre uyarlanmış ve Python ağırlıklı bir soru seti çıkarıyorum.
@@ -39,3 +40,7 @@ str1='Hello World'
 def reverse_string(reverse):
     return reverse[::-1]
 print(reverse_string(str1))
+
+
+
+
