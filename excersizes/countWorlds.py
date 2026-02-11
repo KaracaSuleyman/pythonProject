@@ -44,3 +44,7 @@ print(reverse_string(str1))
 
 
 
+name='Suleyman'
+
+for i in  range(2,12,2):
+    print('Hi', name, i)
